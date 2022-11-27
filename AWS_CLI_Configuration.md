@@ -40,5 +40,5 @@ Default output format [None]: json
 
 
 ```
-Happy to receive your feedbacks ...
-'``
+We are happy to receive your feedbacks ...
+```
