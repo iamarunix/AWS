@@ -32,8 +32,8 @@ aws-cli/2.8.4 Python/3.9.11 Linux/4.18.0-372.9.1.el8.x86_64 exe/x86_64.rhel.8 pr
 ## Step 7: Now, its time to configure AWS CLI. Get the KEY ID and Secret Access key from the user details in AWS Console.
 ```
 $ aws configure
-AWS Access Key ID [None]: AKIAIOSFODNN7EXAMPLE
-AWS Secret Access Key [None]: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+AWS Access Key ID [None]: xxxxxxxxxxxxxxx
+AWS Secret Access Key [None]: xxxxxxxxxxxxxxxx
 Default region name [None]: us-west-2
 Default output format [None]: json
 ```
