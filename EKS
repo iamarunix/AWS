@@ -1,0 +1,3 @@
+aws eks --region [eks_region] describe-cluster --name [eks_cluster_name] --query cluster.status
+
+awscli.amazonaws.com/AWSCLIV2.msi
