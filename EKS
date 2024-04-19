@@ -1,3 +1,17 @@
 aws eks --region [eks_region] describe-cluster --name [eks_cluster_name] --query cluster.status
 
 awscli.amazonaws.com/AWSCLIV2.msi
+
+- AWS Educate (for students): https://go.aws/3FmfHZY
+
+- AWS Hackathon: https://bit.ly/3nDpUeP
+
+- AWS Community Day: https://go.aws/3GljpEH
+
+- AWSome Day: https://go.aws/33jrtXP
+
+- AWS future Events and Webinars: https://go.aws/3JZJnzD
+
+- Proof-of-Concept (POC): https://go.aws/3GM1UfV
+
+- AWS Promotional Credit Program: https://go.aws/3LAajqE
